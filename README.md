@@ -25,7 +25,7 @@ Server code
 
 # echo-server.py
 
-
+```
 import socket
 
 
@@ -44,11 +44,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             if not data:
                 break
             conn.sendall(data)
-
+```
 Client Code:
 # echo-client.py
 
-
+```
 import socket
 
 
@@ -63,7 +63,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 
 print(f"Received {data!r}")
-
+```
 ## OUTPUT:
 
 ![WhatsApp Image 2026-01-28 at 1 10 24 PM](https://github.com/user-attachments/assets/47989b48-75c8-454a-98c1-4714f92cf8a9)
