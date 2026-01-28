@@ -66,17 +66,9 @@ print(f"Received {data!r}")
 ```
 ## OUTPUT:
 
-![WhatsApp Image 2026-01-28 at 1 10 24 PM](https://github.com/user-attachments/assets/47989b48-75c8-454a-98c1-4714f92cf8a9)
+<img width="897" height="1019" alt="image" src="https://github.com/user-attachments/assets/b4fd8ef3-24d4-4b51-b8a3-3a801b328285" />
 
-
-![WhatsApp Image 2026-01-28 at 10 21 48 AM](https://github.com/user-attachments/assets/c5216022-4758-4e87-ba91-11c72b72b00e)
-
-
-![WhatsApp Image 2026-01-28 at 10 22 49 AM](https://github.com/user-attachments/assets/189c3239-8c5f-48f6-9c3c-5d3a09e76c8c)
-
-
-![WhatsApp Image 2026-01-28 at 10 22 50 AM](https://github.com/user-attachments/assets/5a2ed793-1b50-49b5-8e50-9dd173d5250f)
-
+<img width="942" height="984" alt="image" src="https://github.com/user-attachments/assets/ddb3da8e-d802-484f-bb4d-bca432ad5d0a" />
 
 ## RESULT:
 The program is executed successfully
